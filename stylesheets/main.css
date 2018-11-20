@@ -1,0 +1,19 @@
+header section {
+  display: inline-block;
+  height: 50px;
+}
+
+#header-5280 {
+  background-color: black;
+  color: white;
+  width: 1350px;
+
+}
+
+#login-header {
+  float: right;
+  background-color: green;
+  color: white;
+  width: 100px;
+
+}
